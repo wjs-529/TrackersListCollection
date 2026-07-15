@@ -1,8 +1,8 @@
 http://004430.xyz:80/announce
 
-http://107.189.2.131:1337/announce
+http://0123456789nonexistent.com:80/announce
 
-http://132.243.161.144:6969/announce
+http://107.189.2.131:1337/announce
 
 http://1337.abcvg.info:80/announce
 
@@ -10,15 +10,13 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://bt.poletracker.org:2710/announce
-
 http://bt1.archive.org:6969/announce
+
+http://bt1.xxxxbt.cc:6969/announce
 
 http://bt2.archive.org:6969/announce
 
@@ -30,15 +28,19 @@ http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://retracker.spark-rostov.ru:80/announce
+http://open.trackerlist.xyz:80/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
+http://shubt.net:2710/announce
+
 http://supertracker.cc.cd:80/announce
 
-http://torrentsmd.com:8080/announce
+http://t.overflow.biz:6969/announce
 
-http://tr.highstar.shop:80/announce
+http://torrent.hificode.in:6969/announce
+
+http://torrentsmd.com:8080/announce
 
 http://tr.kxmp.cf:80/announce
 
@@ -52,9 +54,11 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.plx.im:6969/announce
+http://tracker.opentorrent.top:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -62,7 +66,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.therarbg.to:6969/announce
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -75,6 +79,8 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
+
+http://tracker810.xyz:11450/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -94,11 +100,11 @@ https://orgtgju.org:443/announce
 
 https://pybittrack.retiolus.net:443/announce
 
-https://shahidrazi.online:443/announce
-
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -152,8 +158,6 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
 
-udp://ds32244.seedhost.eu:6969/announce
-
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -188,8 +192,6 @@ udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://rekcart.duckdns.org:15480/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -201,8 +203,6 @@ udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://tr.btube3.com:2010/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -224,13 +224,9 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.ducks.party:1984/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -262,8 +258,6 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -285,8 +279,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://v6.vito-tracker.space:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
-
-udp://zer0day.ch:1337/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
