@@ -14,13 +14,7 @@ http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://bt.okmp3.ru:2710/announce
-
-http://bt.poletracker.org:2710/announce
-
 http://bt1.archive.org:6969/announce
-
-http://bt1.xxxxbt.cc:6969/announce
 
 http://bt2.archive.org:6969/announce
 
@@ -28,21 +22,11 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
-
-http://open.trackerlist.xyz:80/announce
-
-http://retracker.spark-rostov.ru:80/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
-http://shubt.net:2710/announce
-
 http://t.overflow.biz:6969/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -60,15 +44,13 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.moxing.party:6969/announce
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nexusstream.eu:6969/announce
 
-http://tracker.opentorrent.top:6969/announce
-
-http://tracker.plx.im:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -104,6 +86,8 @@ https://open.ftorrent.com:443/announce
 
 https://orgtgju.org:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
@@ -121,8 +105,6 @@ https://tracker.adgk.net:443/announce
 https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
