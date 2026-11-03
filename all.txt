@@ -8,6 +8,8 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
@@ -34,15 +36,13 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.waaa.moe:6969/announce
+http://tracker.skyts.net:6969/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
+http://tracker.waaa.moe:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -70,8 +70,6 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -83,8 +81,6 @@ https://tracker.cangku.moe:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.midnightprogrammer.net:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
@@ -111,6 +107,8 @@ udp://admin.52ywp.com:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://archive.torrentonline.cc:42069/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt-tracker.de:6969/announce
 
@@ -146,8 +144,6 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.lain.moscow:6969/announce
 
-udp://opentracker2.lain.moscow:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -170,8 +166,6 @@ udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cn.nyaa.net:6969/announce
@@ -191,6 +185,8 @@ udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -217,6 +213,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.sela.st:6969/announce
 
 udp://tracker.skyts.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
