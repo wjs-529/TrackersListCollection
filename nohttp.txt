@@ -88,8 +88,6 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
@@ -117,8 +115,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.sela.st:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
