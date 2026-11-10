@@ -78,6 +78,8 @@ https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
 
+https://tracker.augrains.com:443/announce
+
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.kuroy.me:443/announce
